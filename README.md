@@ -7,7 +7,7 @@
 [![](https://visitcount.itsvg.in/api?id=DavidQuadrado&icon=5&color=10)](https://visitcount.itsvg.in)
 
   ## 💰 I need Energy so pls donate me so I can buy a Monster :)
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/Kimitc) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]([[https://paypal.me/paypal.me/Kimitc](https://www.paypal.com/donate/?hosted_button_id=UHNABWEU7U8VL)](https://www.paypal.com/donate/?hosted_button_id=UHNABWEU7U8VL)) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
